@@ -1,4 +1,4 @@
-class Prathiba {
+class java git {
 public static void main(String[] args){
 System.out.println("Hello World");
 }
